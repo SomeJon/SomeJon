@@ -4,7 +4,7 @@
 
 🚀 My main interests lie in **Machine Learning** and **Object-Oriented Programming**. I enjoy designing robust solutions and exploring the intricacies of software development, particularly on the backend.
 
-💻 While my preferred languages for their structure and potential are **C#** and **Java**, a significant portion of my recent development work, particularly in Machine Learning and backend services, has been in **Python**. As a result, it's currently the language I've written the most code in. I also have experience with C++ and C. I'm keen on seeing ML utilized more within the C#/.NET and Java ecosystems!
+💻 My core languages are **Python**, **C#** (.NET), and **Java** (Spring Boot). I leverage Python extensively for its rich Machine Learning ecosystem and for backend development, while I particularly appreciate the strong Object-Oriented design principles found in C# and Java. I also have experience with C++ and C.
 
 💡 I'm a strong believer in meticulous planning *before* writing code. I often create detailed designs and diagrams (using tools like **Draw.io**) to map out architecture and logic, ensuring a solid foundation before implementation begins. I appreciate using **Git** for version control and enjoy exploring concepts like multithreading and multiprocessing.
 
@@ -61,6 +61,10 @@ Here are some of the projects I've worked on:
   <img src="https://github-readme-stats.vercel.app/api?username=SomeJon&show_icons=true&theme=radical" alt="SomeJon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeJon&layout=compact&theme=radical" alt="SomeJon's Top Languages" />
   </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SomeJon&color=brightgreen&style=flat-square" alt="Profile Visitor Count"/>
+</p>
 
 ---
 
