@@ -1,66 +1,53 @@
 ### Hi there, I'm Jonatan Shaya (SomeJon) 👋
 
-🌱 I'm a final-year Computer Science student based near Tel Aviv, Israel, passionate about tackling complex coding challenges.
+🎓 **Computer Science Graduate** | Tel Aviv, Israel
+🚀 I am a Software Engineer passionate about **Machine Learning**, **Object-Oriented Design**, and **Architectural Efficiency**. I thrive on transforming complex mathematical challenges into robust, scalable software solutions.
 
-🚀 My main interests lie in **Machine Learning** and **Object-Oriented Programming**. I enjoy designing robust solutions and exploring the intricacies of software development, particularly on the backend.
+💻 **Primary Stack**: 
+* **AI & Data**: Python (PyTorch/CUDA, Scikit-learn, Pandas, ONNX Runtime).
+* **Backend & Systems**: C# (.NET), Java (Spring Boot), and high-performance C/C++.
+* **Architecture**: Deep focus on Design Patterns, Multithreading, and System Optimization.
 
-💻 My core languages are **Python**, **C#** (.NET), and **Java** (Spring Boot). I leverage Python extensively for its rich Machine Learning ecosystem and for backend development, while I particularly appreciate the strong Object-Oriented design principles found in C# and Java. I also have experience with C++ and C.
-
-💡 I'm a strong believer in meticulous planning *before* writing code. I often create detailed designs and diagrams (using tools like **Draw.io**) to map out architecture and logic, ensuring a solid foundation before implementation begins. I appreciate using **Git** for version control and enjoy exploring concepts like multithreading and multiprocessing.
+💡 **My Philosophy**: I am a firm believer in meticulous planning. I prioritize detailed architectural designs and diagrams (UML/Draw.io) to ensure a solid foundation before a single line of code is written.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-* **Languages:** C#, Java, Python, C++, C, SQL
-* **Frameworks/Libraries:**
-    * C#: .NET Framework, .NET 7
-    * Java: Spring Boot, Tomcat
-    * Python: PyTorch (CUDA), TensorFlow, Scikit-learn, Pandas, Flask, ONNX Runtime
-* **Databases:** PostgreSQL, MySQL, SQLite
-* **Tools & Platforms:** Git, Docker, Linux, Vagrant, Google Cloud Platform (Cloud Run, Cloud SQL), AWS (basic familiarity), OpenAI API, Gemini API
-* **Concepts:** Object-Oriented Programming (OOP), Machine Learning, Deep Learning, **Software Design & Planning (UML, Draw.io)**, Design Patterns, Multithreading/Multiprocessing, REST APIs
-* 
+![Python](https://img.shields.app/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.app/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.app/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.app/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PyTorch](https://img.shields.app/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.app/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, OpenAI/Gemini APIs
+* **Backend:** .NET 7+, Spring Boot, PostgreSQL, GCP, Linux
+* **Core:** OOP, Software Design Patterns, Deep Learning, Multithreading, Distributed Systems
+
 ---
 
 ### 🔭 Projects Showcase
 
-Here are some of the projects I've worked on:
-
-* **focus-flow** (Team Project - Python, Flask, PyTorch, GCP)
-    * Repos: [Server](https://github.com/The-JAR-Team/focus-flow-server) | [Models](https://github.com/The-JAR-Team/focus-flow-models) | [Client](https://github.com/The-JAR-Team/focus-flow-client)
-    * *My Role:* Backend server development (Flask, GCP, PostgreSQL, Docker) and ML model integration (PyTorch, OpenCV, ONNX Runtime, Gemini API).
-    * *Goal:* A system to help students improve focus while watching lecture recordings using webcam analysis and AI interaction. (Work in Progress)
-
-* **ModelOptimizer** (Personal Project - Python, OpenAI API)
-    * Repo: [https://github.com/SomeJon/ModelOptimizer](https://github.com/SomeJon/ModelOptimizer)
-    * *Description:* A client-server system designed to distribute and manage hyperparameter optimization for ML models, using the OpenAI API to intelligently suggest new test configurations. My most loved personal project! (Vision for fully automated distributed training).
-
-* **Machine Learning from Scratch** (Coursework - Python)
-    * Repo: [https://github.com/SomeJon/machine-learning-projects](https://github.com/SomeJon/machine-learning-projects)
-    * *Description:* Implementations of fundamental ML algorithms (Neural Networks for MNIST/Medical Data, Perceptron, Linear/Logistic Regression, SVM) without relying on high-level libraries like Scikit-learn's model classes.
-
-* **Facebook Client** (Course Assignment - C#, WinForms)
-    * Repo: [https://github.com/SomeJon/C24-Design-FacebookClient](https://github.com/SomeJon/C24-Design-FacebookClient)
-    * *Description:* A desktop client application interacting with the Facebook API using WinForms. Employs a "stupid client" architecture and various design patterns (Proxy, Adapter, Singleton, etc.). (Primarily solo work).
-
-* **JavaCodeNames** (Course Assignment - Java, Tomcat)
-    * Repo: [https://github.com/SomeJon/JavaCodeNames](https://github.com/SomeJon/JavaCodeNames)
-    * *Description:* A console-based, networked implementation of the Codenames board game featuring a Tomcat server, room management, chat, and full game logic. (Solo work, ~110 hours).
-
-* **Hospital System** (Early Course Assignment - C++)
-    * Repo: [https://github.com/Quercusoak/Hospital](https://github.com/Quercusoak/Hospital)
-    * *Description:* My first significant C++ project (pair work), implementing a basic management system for a hospital.
-
+* **[focus-flow](https://github.com/The-JAR-Team/focus-flow-server)** (Python, PyTorch, GCP)
+    * *Backend & ML Integration:* Real-time focus tracking via webcam analysis using PyTorch, Flask, and Docker.
+* **[ModelOptimizer](https://github.com/SomeJon/ModelOptimizer)** (Python, OpenAI API)
+    * *Personal Favorite:* Distributed hyperparameter optimization system using AI to manage training configurations.
+* **[High-Performance HTTP Server](https://github.com/SomeJon/high-performance-http-server)** (C++, Networking)
+    * *Systems Focus:* Single-threaded, non-blocking server (RFC 2616) using I/O multiplexing.
+* **[Encrypted Linux Driver](https://github.com/SomeJon/linux-kernel-encrypted-driver)** (C, Linux Kernel)
+    * *Low-Level Dev:* LKM with XOR encryption and `ioctl` user-space communication.
+* **[JavaCodeNames](https://github.com/SomeJon/JavaCodeNames)** (Java, Tomcat)
+    * *Complex Logic:* Networked board game with full room management and state synchronization.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomeJon&show_icons=true&theme=radical" alt="SomeJon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeJon&layout=compact&theme=radical" alt="SomeJon's Top Languages" />
-  </p>
+  <img src="https://github-readme-stats.zcy.dev/api?username=SomeJon&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SomeJon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SomeJon&color=brightgreen&style=flat-square" alt="Profile Visitor Count"/>
