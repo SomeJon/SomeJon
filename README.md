@@ -1,61 +1,40 @@
-### Hi there, I'm Jonatan Shaya (SomeJon) 👋
+# Jonatan Shaya | Software Engineer 🚀
 
-🎓 **Computer Science Graduate** | Tel Aviv, Israel
-🚀 I am a Software Engineer passionate about **Machine Learning**, **Object-Oriented Design**, and **Architectural Efficiency**. I thrive on transforming complex mathematical challenges into robust, scalable software solutions.
+**Computer Science Graduate | Specialized in ML & Systems Architecture**
+*Tel Aviv, Israel*
 
-💻 **Primary Stack**: 
-* **AI & Data**: Python (PyTorch/CUDA, Scikit-learn, Pandas, ONNX Runtime).
-* **Backend & Systems**: C# (.NET), Java (Spring Boot), and high-performance C/C++.
-* **Architecture**: Deep focus on Design Patterns, Multithreading, and System Optimization.
-
-💡 **My Philosophy**: I am a firm believer in meticulous planning. I prioritize detailed architectural designs and diagrams (UML/Draw.io) to ensure a solid foundation before a single line of code is written.
+I build high-performance software where complex mathematics meets robust engineering. My approach centers on **Architectural Efficiency**—leveraging design patterns and detailed system modeling (UML/Draw.io) to build scalable, production-ready solutions.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack & Expertise
 
-![Python](https://img.shields.app/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.app/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.app/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.app/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.app/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.app/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, OpenAI/Gemini APIs
-* **Backend:** .NET 7+, Spring Boot, PostgreSQL, GCP, Linux
-* **Core:** OOP, Software Design Patterns, Deep Learning, Multithreading, Distributed Systems
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **AI & Data** | Python (PyTorch, CUDA, Scikit-learn, ONNX), OpenCV |
+| **Systems & Backend** | C# (.NET 7+), Java (Spring Boot), C/C++, PostgreSQL |
+| **Infrastructure** | Docker, GCP, Linux Kernel (LKM), Distributed Systems |
+| **Core Strengths** | OOP, Multithreading, I/O Multiplexing, System Optimization |
 
 ---
 
-### 🔭 Projects Showcase
+### 🔭 Featured Engineering Projects
 
-* **[focus-flow](https://github.com/The-JAR-Team/focus-flow-server)** (Python, PyTorch, GCP)
-    * *Backend & ML Integration:* Real-time focus tracking via webcam analysis using PyTorch, Flask, and Docker.
-* **[ModelOptimizer](https://github.com/SomeJon/ModelOptimizer)** (Python, OpenAI API)
-    * *Personal Favorite:* Distributed hyperparameter optimization system using AI to manage training configurations.
-* **[High-Performance HTTP Server](https://github.com/SomeJon/high-performance-http-server)** (C++, Networking)
-    * *Systems Focus:* Single-threaded, non-blocking server (RFC 2616) using I/O multiplexing.
-* **[Encrypted Linux Driver](https://github.com/SomeJon/linux-kernel-encrypted-driver)** (C, Linux Kernel)
-    * *Low-Level Dev:* LKM with XOR encryption and `ioctl` user-space communication.
-* **[JavaCodeNames](https://github.com/SomeJon/JavaCodeNames)** (Java, Tomcat)
-    * *Complex Logic:* Networked board game with full room management and state synchronization.
+* **[focus-flow](https://github.com/The-JAR-Team/focus-flow-server)** – *ML-Powered Productivity*
+    * Developed a real-time focus tracking backend using **PyTorch** and **Flask**, containerized with **Docker** for seamless GCP deployment.
+* **[ModelOptimizer](https://github.com/SomeJon/ModelOptimizer)** – *Distributed AI*
+    * Architected a distributed system for hyperparameter optimization, utilizing LLM integration to automate and manage training configurations.
+* **[High-Performance HTTP Server](https://github.com/SomeJon/high-performance-http-server)** – *Systems Programming*
+    * Built a single-threaded, non-blocking server from scratch in **C++** using I/O multiplexing to handle concurrent connections efficiently.
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Technical Vitals
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=SomeJon&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=SomeJon&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=SomeJon&show_icons=true&theme=radical&hide=contribs,commits" alt="Jonatan's Stats" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SomeJon&color=brightgreen&style=flat-square" alt="Profile Visitor Count"/>
 </p>
-
----
-
-### 📫 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/jonatan-shaya-40591b33a](https://www.linkedin.com/in/jonatan-shaya-40591b33a/)
-* **Email:** jonatan.shaya99@gmail.com
