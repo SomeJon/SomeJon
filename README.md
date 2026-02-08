@@ -32,9 +32,10 @@ I build high-performance software where complex mathematics meets robust enginee
 ### 📈 Technical Vitals
 
 <p align="center">
-  <img src="https://github-readme-stats.zcy.dev/api?username=SomeJon&show_icons=true&theme=radical&hide=contribs,commits" alt="Jonatan's Stats" />
+<img src="https://github-readme-stats.zcy.dev/api?username=SomeJon&show_icons=true&theme=radical&commits_year=2024" alt="2024 Performance" />
 </p>
-
+   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SomeJon&color=brightgreen&style=flat-square" alt="Profile Visitor Count"/>
 </p>
+
